@@ -1,5 +1,6 @@
 #Screenshot
-![Alt text](/screenshot.jpg)
+
+![Screenshot](/screenshot.jpg)
 
 # Flip a Coin Game
 
