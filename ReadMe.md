@@ -1,3 +1,6 @@
+#Screenshot
+![Alt text](/screenshot.jpg)
+
 # Flip a Coin Game
 
 Welcome to the "Flip a Coin" game by Mustafa Pinjari! This project is a simple web-based game where you can flip a virtual coin and keep track of the results. Below, you'll find a detailed guide on the structure and functionality of this project.
